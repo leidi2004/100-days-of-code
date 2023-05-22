@@ -8,14 +8,13 @@
 
 **Link to work:** [Survey Form](https://github.com/leidi2004/SurveyForm.git)
 
-### Day 2: February 21, 2023
-##### (delete me or comment me out)
+### Day 2: May 21, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I gained a better understanding of the value of using max-width in building responsive layouts.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**:  I realized that I had been using max-width and width together incorrectly. I set a specific timeframe goal to complete my project, and I successfully achieved it. Additionally, I aimed to write shorter yet responsive CSS, and I accomplished that as well. I had some concerns about the way I was naming classes using BEM.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Tribute Page](https://github.com/leidi2004/TributePage)
 
 
 ### Day 1: June 27, Monday
