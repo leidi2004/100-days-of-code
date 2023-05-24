@@ -19,9 +19,16 @@
 
 ### Day 3: May 22, 2023
 
-**Today's Progress**: I've started anothe challenge of freecodecamp.
+**Today's Progress**: I've started another challenge of freecodecamp.
 
-**Thoughts**: 
+**Thoughts**: I'm beign discipline
 
 **Link(s) to work**: [Technical Documentation](https://github.com/leidi2004/technical-documentation-page)
 
+### Day 4: May 23, 2023
+
+**Today's Progress**: I've finished the challenge of freecodecamp.
+
+**Thoughts**: I think i'm getting better the menu in big screens was the only thing that gave me problems and the code blocks in small screens.
+
+**Link(s) to work**: [Technical Documentation](https://github.com/leidi2004/technical-documentation-page)
