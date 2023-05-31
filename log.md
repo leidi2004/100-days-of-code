@@ -32,3 +32,35 @@
 **Thoughts**: I think i'm getting better the menu in big screens was the only thing that gave me problems and the code blocks in small screens.
 
 **Link(s) to work**: [Technical Documentation](https://github.com/leidi2004/technical-documentation-page)
+
+### Day 5: May 26, 2023
+
+**Today's Progress**: I'm practicing grid layout.
+
+**Thoughts**: I'm slow with grid, i did the header and the layout of the page.
+
+**Link(s) to work**: [Dashboard]()
+
+### Day 6: May 27, 2023
+
+**Today's Progress**: I did the main and aside.
+
+**Thoughts**: i'm not trying that things are cute i'm just practicing my layout skills.
+
+**Link(s) to work**: [Dashboard]()
+
+### Day 7: May 29, 2023
+
+**Today's Progress**: I finished the dashboard and i started and finished the UI of the rock paper scissors game i'm working on.
+
+**Thoughts**: I have a bug in the dashboard mainly in the main section the height of the items if i decleared the height is bad because creates an space that shouldn't be tehere, if i don't declare the height it will have a design error, it was frustraiting.
+
+**Link(s) to work**: [Rock Paper Scissors](https://github.com/leidi2004/RockPaperScissors.git)
+
+### Day 8: May 30, 2023
+
+**Today's Progress**: I did most of the logic.
+
+**Thoughts**: Is complicated for me the mamagement of more than one button it tends, i learned with this project to use target and i'm trying to get used to the new logic of JavaScript after using java, it was one thing the easy projects in JS but this game is challenging me and giving me headache. 
+
+**Link(s) to work**: [Rock Paper Scissors](https://github.com/leidi2004/RockPaperScissors)
