@@ -64,3 +64,11 @@
 **Thoughts**: Is complicated for me the mamagement of more than one button it tends, i learned with this project to use target and i'm trying to get used to the new logic of JavaScript after using java, it was one thing the easy projects in JS but this game is challenging me and giving me headache. 
 
 **Link(s) to work**: [Rock Paper Scissors](https://github.com/leidi2004/RockPaperScissors)
+
+### Day 9: May 31, 2023
+
+**Today's Progress**: I did a Responsive Header.
+
+**Thoughts**: It was pretty easy, but also little challenging without using media queries. 
+
+**Link(s) to work**: [Header]()
