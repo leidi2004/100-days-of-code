@@ -72,3 +72,11 @@
 **Thoughts**: It was pretty easy, but also little challenging without using media queries. 
 
 **Link(s) to work**: [Header]()
+
+### Day 10: May 31, 2023
+
+**Today's Progress**: I finished the rps game.
+
+**Thoughts**: I didn't want to code tonight, but i did the rule just for ten minutes and i ended up finishing the game, it was just little details to do. I want to add audio to the game, but it was pretty simple. 
+
+**Link(s) to work**: [Rock Paper Scissors]()
