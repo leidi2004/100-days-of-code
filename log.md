@@ -73,10 +73,19 @@
 
 **Link(s) to work**: [Header]()
 
-### Day 10: May 31, 2023
+### Day 10: June 1, 2023
 
 **Today's Progress**: I finished the rps game.
 
 **Thoughts**: I didn't want to code tonight, but i did the rule just for ten minutes and i ended up finishing the game, it was just little details to do. I want to add audio to the game, but it was pretty simple. 
 
-**Link(s) to work**: [Rock Paper Scissors]()
+**Link(s) to work**: [Rock Paper Scissors](https://github.com/leidi2004/RockPaperScissors)
+
+
+### Day 11: June 2, 2023
+
+**Today's Progress**: I started a Etch-Sketch.
+
+**Thoughts**: I added the audio to the Rock Paper Scissors game y i did a mock up of the E-Sketch i'm working on. 
+
+**Link(s) to work**: [Rock Paper Scissors](https://github.com/leidi2004/RockPaperScissors)
