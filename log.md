@@ -89,3 +89,11 @@
 **Thoughts**: I added the audio to the Rock Paper Scissors game y i did a mock up of the E-Sketch i'm working on. 
 
 **Link(s) to work**: [Rock Paper Scissors](https://github.com/leidi2004/RockPaperScissors)
+
+### Day 12: June 3, 2023
+
+**Today's Progress**: I finished the UI of the sketch and i started the logic.
+
+**Thoughts**: I learn today things by doing the logic in javascript, things i hadn't put in practice before, i had some conflicts between the logic and the UI after i finished the least and it was really frustrating but i resolved that.  
+
+**Link(s) to work**: [E-sketch](https://github.com/leidi2004/esketch)
