@@ -12,7 +12,7 @@
 
 **Today's Progress**: I gained a better understanding of the value of using max-width in building responsive layouts.
 
-**Thoughts**:  I realized that I had been using max-width and width together incorrectly. I set a specific timeframe goal to complete my project, and I successfully achieved it. Additionally, I aimed to write shorter yet responsive CSS, and I accomplished that as well. I had some concerns about the way I was naming classes using BEM.
+**Thoughts**:  I realized that I had been using max-width and width together incorrectly. I set a specific time frame goal to complete my project, and I successfully achieved it. Additionally, I aimed to write shorter yet responsive CSS, and I accomplished that as well. I had some concerns about the way I was naming classes using BEM.
 
 **Link(s) to work**: [Tribute Page](https://github.com/leidi2004/TributePage)
 
@@ -21,7 +21,7 @@
 
 **Today's Progress**: I've started another challenge of freecodecamp.
 
-**Thoughts**: I'm beign discipline
+**Thoughts**: I'm being discipline
 
 **Link(s) to work**: [Technical Documentation](https://github.com/leidi2004/technical-documentation-page)
 
@@ -53,7 +53,7 @@
 
 **Today's Progress**: I finished the dashboard and i started and finished the UI of the rock paper scissors game i'm working on.
 
-**Thoughts**: I have a bug in the dashboard mainly in the main section the height of the items if i decleared the height is bad because creates an space that shouldn't be tehere, if i don't declare the height it will have a design error, it was frustraiting.
+**Thoughts**: I have a bug in the dashboard mainly in the main section the height of the items if i write a value for the height is bad because creates an space that shouldn't be there, if i don't declare the height it will have a design error, it was frustrating.
 
 **Link(s) to work**: [Rock Paper Scissors](https://github.com/leidi2004/RockPaperScissors.git)
 
@@ -61,7 +61,7 @@
 
 **Today's Progress**: I did most of the logic.
 
-**Thoughts**: Is complicated for me the mamagement of more than one button it tends, i learned with this project to use target and i'm trying to get used to the new logic of JavaScript after using java, it was one thing the easy projects in JS but this game is challenging me and giving me headache. 
+**Thoughts**: Is complicated for me the management of more than one button it tends, i learned with this project to use target and i'm trying to get used to the new logic of JavaScript after using java, it was one thing the easy projects in JS but this game is challenging me and giving me headache. 
 
 **Link(s) to work**: [Rock Paper Scissors](https://github.com/leidi2004/RockPaperScissors)
 
@@ -97,3 +97,21 @@
 **Thoughts**: I learn today things by doing the logic in javascript, things i hadn't put in practice before, i had some conflicts between the logic and the UI after i finished the least and it was really frustrating but i resolved that.  
 
 **Link(s) to work**: [E-sketch](https://github.com/leidi2004/esketch)
+
+**Link(s) to work**: [Rock Paper Scissors](https://github.com/leidi2004/RockPaperScissors)
+
+### Day 13: June 4, 2023
+
+**Today's Progress**: I finished the UI the sketch.
+
+**Thoughts**: The things I think are the easiest always ending being harder to figure out, i finished the sketch faster than i though and also with less javascript code.  
+
+**Link(s) to work**: [E-sketch](https://leidi2004.github.io/esketch/)
+
+### Day 14: June 5, 2023
+
+**Today's Progress**: I started the calculator and finished the UI of the three different themes.
+
+**Thoughts**: it's the second time i work with sass and i'm pleased with the results i think that my skills of building layouts are getting better. Today i track the time it took me to build the base of the calculator and the mixin, it took me less than two hours, i'm gaining more confidence at the time to use grid and it's all because of the hours practicing and all the layout i've built. Now i'm planning to first write all the steps to make the functions work and i'm going to write some pseudocode.
+
+**Link(s) to work**: [Calculator](https://github.com/leidi2004/calculator)
