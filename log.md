@@ -115,3 +115,11 @@
 **Thoughts**: it's the second time i work with sass and i'm pleased with the results i think that my skills of building layouts are getting better. Today i track the time it took me to build the base of the calculator and the mixin, it took me less than two hours, i'm gaining more confidence at the time to use grid and it's all because of the hours practicing and all the layout i've built. Now i'm planning to first write all the steps to make the functions work and i'm going to write some pseudocode.
 
 **Link(s) to work**: [Calculator](https://github.com/leidi2004/calculator)
+
+### Day 15: June 6, 2023
+
+**Today's Progress**: I started the logic of the calculator.
+
+**Thoughts**: Last night i wrote some logic of the code but today i'm really frustrated with the process because i'm struggling with the logic of the calculator and with organazing the code inside functions and don't have it all the code in the event listener, because that is what i was doing, so i'm going to leave this for now and continue tomorrow.
+
+**Link(s) to work**: [Calculator](https://github.com/leidi2004/calculator)
