@@ -123,3 +123,11 @@
 **Thoughts**: Last night i wrote some logic of the code but today i'm really frustrated with the process because i'm struggling with the logic of the calculator and with organazing the code inside functions and don't have it all the code in the event listener, because that is what i was doing, so i'm going to leave this for now and continue tomorrow.
 
 **Link(s) to work**: [Calculator](https://github.com/leidi2004/calculator)
+
+### Day 16: June 10, 2023
+
+**Today's Progress**: I finished all the logic of the operations.
+
+**Thoughts**: I struggled a lot with finding the logic of the calculator so i took a break and finally today i could figure it out but i couldn't solve something(operate jus two values first and then the rest), i don't think i'll do that, i started with the logic for the switch of the themes, but i'll maybe do that tomorrow.
+
+**Link(s) to work**: [Calculator](https://github.com/leidi2004/calculator)
