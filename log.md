@@ -131,3 +131,13 @@
 **Thoughts**: I struggled a lot with finding the logic of the calculator so i took a break and finally today i could figure it out but i couldn't solve something(operate jus two values first and then the rest), i don't think i'll do that, i started with the logic for the switch of the themes, but i'll maybe do that tomorrow.
 
 **Link(s) to work**: [Calculator](https://github.com/leidi2004/calculator)
+
+### Day 17: June 10, 2023
+
+**Today's Progress**: I finished the calculator.
+
+**Thoughts**: i did the thing that changes the theme and i correct some little things of the layout and cleaned the code, I think i'm going to take the rest of the night to rest and tomorrow i'm going to start the project that i scheduled and i hope i'll finish the project in the deadline i have.
+
+**Link(s) to work**: [Calculator](leidi2004.github.io/calculator/)
+
+
