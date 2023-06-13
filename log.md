@@ -132,7 +132,7 @@
 
 **Link(s) to work**: [Calculator](https://github.com/leidi2004/calculator)
 
-### Day 17: June 10, 2023
+### Day 17: June 11, 2023
 
 **Today's Progress**: I finished the calculator.
 
@@ -140,4 +140,11 @@
 
 **Link(s) to work**: [Calculator](leidi2004.github.io/calculator/)
 
+### Day 18: June 12, 2023
+
+**Today's Progress**: I started the library project.
+
+**Thoughts**: I started the library project given by the odin project, in the past i've learn about the object pattern but i didnt rally pay attention because i prefer the oop pattern and now i re learned about it and with this project im going to practice, today i did the html structure and most of the styles.
+
+**Link(s) to work**: [Library](https://github.com/leidi2004/library)
 
