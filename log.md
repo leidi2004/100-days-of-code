@@ -148,3 +148,11 @@
 
 **Link(s) to work**: [Library](https://github.com/leidi2004/library)
 
+### Day 19: June 13, 2023
+
+**Today's Progress**: I started the JavaScript logig.
+
+**Thoughts**: After i finished the styles and started the JavaScript logic in the evening, i want to remember myself to never omit the type = "button" attribute because of this the program throw me an error that wasn't going to affect its run but it annoyed me and the error was because i always thought that the type button attribute wasn't necessary and i always omited it and spoiler alert it is. I learned about some javascript properties for the dom manipulation of the inputs and i think i still have to practice the object pattern but i understood it use and i also have to organized better the code before pushing the final code.
+
+**Link(s) to work**: [Library](https://github.com/leidi2004/library)
+
