@@ -156,3 +156,10 @@
 
 **Link(s) to work**: [Library](https://github.com/leidi2004/library)
 
+### Day 20: June 14, 2023
+
+**Today's Progress**: I finished the library project.
+
+**Thoughts**: With this projects i learned to write comments for the code it was quiet interesting and it help me ro understand even better the code and the flow of my program also it's scary to delete a variable that you think it's doing nothing but when you do that the program throws you a bunch of error. I loved doing this project and i'm excited about the things that i'm going to put in practice with the next projects.
+
+**Link(s) to work**: [Library](https://leidi2004.github.io/library/)
