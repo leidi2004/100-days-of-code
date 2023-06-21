@@ -163,3 +163,11 @@
 **Thoughts**: With this projects i learned to write comments for the code it was quiet interesting and it help me ro understand even better the code and the flow of my program also it's scary to delete a variable that you think it's doing nothing but when you do that the program throws you a bunch of error. I loved doing this project and i'm excited about the things that i'm going to put in practice with the next projects.
 
 **Link(s) to work**: [Library](https://leidi2004.github.io/library/)
+
+### Day 21: June 20, 2023
+
+**Today's Progress**: Webpack finished me.
+
+**Thoughts**: I started to learn webpack and i didn't code on my own because i was trying to grasp the new concepts, i understand all the concepts it took me two days but the day that i started to do the projects on my own, i had a bunch of errors, finally it worked when i followed the notes and steps that i write when i was reading the documentation instead of asking chatgpt for the steps to build a project or helped with the errors, today i started the todo list app with webpack and all is working i have to be honest and admit that i'm scared of something going bad and i have to put in practice and read about the production stage in webpack, also vite is faster and maybe i have to learn it because of the project of my university my partner is using it but i have to use webpack on my own because i can't lose the knowledge and is what job offers want. I was doing research about it and the employers asked for typescript too, but i'm going to focus in the road map that i have and focus in that, typescript can wait until i get a job. Also i'm thinking about doing a more simpler todo app, the one from frontend mentor and i'm going to use a library. 
+
+**Link(s) to work**: [Library](https://leidi2004.github.io/todo-app/)
