@@ -171,3 +171,27 @@
 **Thoughts**: I started to learn webpack and i didn't code on my own because i was trying to grasp the new concepts, i understand all the concepts it took me two days but the day that i started to do the projects on my own, i had a bunch of errors, finally it worked when i followed the notes and steps that i write when i was reading the documentation instead of asking chatgpt for the steps to build a project or helped with the errors, today i started the todo list app with webpack and all is working i have to be honest and admit that i'm scared of something going bad and i have to put in practice and read about the production stage in webpack, also vite is faster and maybe i have to learn it because of the project of my university my partner is using it but i have to use webpack on my own because i can't lose the knowledge and is what job offers want. I was doing research about it and the employers asked for typescript too, but i'm going to focus in the road map that i have and focus in that, typescript can wait until i get a job. Also i'm thinking about doing a more simpler todo app, the one from frontend mentor and i'm going to use a library. 
 
 **Link(s) to work**: [Library](https://leidi2004.github.io/todo-app/)
+
+### Day 22: June 25, 2023
+
+**Today's Progress**: I started de UI of the todo list.
+
+**Thoughts**: I've been feeling a little down and overwhelmed with the todo list because i can't seem to find a way to make all that work, i decided that i'm just going to finished the UI and start the logic step by step, i feel overwhelmed because i'm using for the fist time things that i just learn. 
+
+**Link(s) to work**: [Todo List]()
+
+### Day 22: June 26, 2023
+
+**Today's Progress**: I finsihed the UI.
+
+**Thoughts**: I finished the ui i had some issues when i started doing one evemt listener because for the first time i've used a library. 
+
+**Link(s) to work**: [Todo List]()
+
+### Day 23: June 27, 2023
+
+**Today's Progress**: I started the module of the ui.
+
+**Thoughts**: I correct the event listener and i started to work with the module ui, i had a bunch of warnings in webpack but i used a plugin for the css and it worked, i admit i was about to give up with webpack because i'm fed up of all the errors of webpack, i'm curious of the lazy loading in my next project i think i'll use it. 
+
+**Link(s) to work**: [Todo List]()
