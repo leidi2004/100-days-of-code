@@ -195,3 +195,11 @@
 **Thoughts**: I correct the event listener and i started to work with the module ui, i had a bunch of warnings in webpack but i used a plugin for the css and it worked, i admit i was about to give up with webpack because i'm fed up of all the errors of webpack, i'm curious of the lazy loading in my next project i think i'll use it. 
 
 **Link(s) to work**: [Todo List]()
+
+### Day 25: June 28, 2023
+
+**Today's Progress**: I started to do the functions.
+
+**Thoughts**: I coded in the morning for an hour a few functions but at night i think i will code more. 
+
+**Link(s) to work**: [Todo List]()
