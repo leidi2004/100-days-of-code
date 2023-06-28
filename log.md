@@ -180,7 +180,7 @@
 
 **Link(s) to work**: [Todo List]()
 
-### Day 22: June 26, 2023
+### Day 23: June 26, 2023
 
 **Today's Progress**: I finsihed the UI.
 
@@ -188,7 +188,7 @@
 
 **Link(s) to work**: [Todo List]()
 
-### Day 23: June 27, 2023
+### Day 24: June 27, 2023
 
 **Today's Progress**: I started the module of the ui.
 
