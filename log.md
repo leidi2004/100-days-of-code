@@ -203,3 +203,11 @@
 **Thoughts**: I coded in the morning for an hour a few functions but at night i think i will code more. 
 
 **Link(s) to work**: [Todo List]()
+
+### Day 26: June 30, 2023
+
+**Today's Progress**: I started to use the logic.
+
+**Thoughts**: working with modules is cool, i have to organize the code and add comments because they are needed, also i have to organize myself because it's taking me more time because i'm not following the path that i marked before starting the project. 
+
+**Link(s) to work**: [Todo List]()
