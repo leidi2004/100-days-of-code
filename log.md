@@ -211,3 +211,11 @@
 **Thoughts**: working with modules is cool, i have to organize the code and add comments because they are needed, also i have to organize myself because it's taking me more time because i'm not following the path that i marked before starting the project. 
 
 **Link(s) to work**: [Todo List]()
+
+### Day 27: July 2, 2023
+
+**Today's Progress**: Progressing.
+
+**Thoughts**: I'm frustrated with the amount of time that is taking me to finish this project, i'm stuck with a part of connecting the elements with the logic, this and the part of editing and deleting elements are going to be my obstacles, i'm not used to this is more easy with data bases. i remember something the json and local storage part are the real challenge. Today i didn't write much code because i'm stuck in that part, tomorrow i have the goal to fix the problem and at least finish the function of deleting. 
+
+**Link(s) to work**: [Todo List]()
