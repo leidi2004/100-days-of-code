@@ -219,3 +219,11 @@
 **Thoughts**: I'm frustrated with the amount of time that is taking me to finish this project, i'm stuck with a part of connecting the elements with the logic, this and the part of editing and deleting elements are going to be my obstacles, i'm not used to this is more easy with data bases. i remember something the json and local storage part are the real challenge. Today i didn't write much code because i'm stuck in that part, tomorrow i have the goal to fix the problem and at least finish the function of deleting. 
 
 **Link(s) to work**: [Todo List]()
+
+### Day 28: July 3, 2023
+
+**Today's Progress**: Almost there.
+
+**Thoughts**: I needed to set an order, a goal, focus in coding and i did a lot of progress in less than four hours i finished most of the things. I have left to do just the edit task method and then the unknown part: the local storage with json. I still have an hour more to code and tomorrow i have to work more than other days, i won't burn myself today so i can code tomorrow. 
+
+**Link(s) to work**: [Todo List]()
