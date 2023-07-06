@@ -227,3 +227,11 @@
 **Thoughts**: I needed to set an order, a goal, focus in coding and i did a lot of progress in less than four hours i finished most of the things. I have left to do just the edit task method and then the unknown part: the local storage with json. I still have an hour more to code and tomorrow i have to work more than other days, i won't burn myself today so i can code tomorrow. 
 
 **Link(s) to work**: [Todo List]()
+
+### Day 29: July 5, 2023
+
+**Today's Progress**: Almost there.
+
+**Thoughts**: I'm almost finished, i have left to do storage the data in the local storage, i have the logic of the edit task method i just have one problem i didn't storage the location of the task and i forsee problems. 
+
+**Link(s) to work**: [Todo List]()
