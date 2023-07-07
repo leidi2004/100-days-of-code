@@ -235,3 +235,11 @@
 **Thoughts**: I'm almost finished, i have left to do storage the data in the local storage, i have the logic of the edit task method i just have one problem i didn't storage the location of the task and i forsee problems. 
 
 **Link(s) to work**: [Todo List]()
+
+### Day 30: July 6, 2023
+
+**Today's Progress**: Finished.
+
+**Thoughts**: I finished all the methods but i'm going to improve a lot of things and add comments, also i have left do the local storage but fist i have to read the docs about json and local storage. 
+
+**Link(s) to work**: [Todo List]()
